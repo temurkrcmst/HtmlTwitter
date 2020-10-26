@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlTwitter", "HtmlTwitter\HtmlTwitter.csproj", "{9539A9C9-8299-402D-8299-F85A71F7CC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlService", "HtmlService\HtmlService.csproj", "{364E1DFB-AC64-4BD9-A657-B1256369AEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9539A9C9-8299-402D-8299-F85A71F7CC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9539A9C9-8299-402D-8299-F85A71F7CC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9539A9C9-8299-402D-8299-F85A71F7CC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9539A9C9-8299-402D-8299-F85A71F7CC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364E1DFB-AC64-4BD9-A657-B1256369AEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364E1DFB-AC64-4BD9-A657-B1256369AEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364E1DFB-AC64-4BD9-A657-B1256369AEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364E1DFB-AC64-4BD9-A657-B1256369AEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625BAE7D-5C58-45A4-A532-9F4542AFED3A}
+	EndGlobalSection
+EndGlobal
